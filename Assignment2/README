@@ -1,1 +1,7 @@
-This project will provide students with practice working with object-oriented programming constructs in Python including classes and objects by building classes to represent creatures and a cataloguing system.
+This project was intended to introduce us to working with object-oriented programming constructs in Python 
+including classes and objects by building classes to represent creatures and a cataloguing system.
+
+It was a parody on a pokemon pokedex that was used to store information about creatures in a catalogue.
+To implement the project a "Pakuri" class was created to layout the attributes of each creature and create
+methods to access and update information about them. A second file called "Pakudex" was created to run a 
+text based interface that could store and retrieve information about Pakuri that a user enters in.
